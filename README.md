@@ -49,27 +49,33 @@ Sl .no	Apparatus	Range	Type	Quantity
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-### Tabulation for Open Circuit Test
+## Theory & Procedure:
+![DocScanner 16 Nov 2025 11-42 pm_1](https://github.com/user-attachments/assets/ceab2991-0b1f-42f4-a85c-81ec22e375d5)
+![DocScanner 16 Nov 2025 11-42 pm_1(2)](https://github.com/user-attachments/assets/009ff352-9d94-4e89-adb0-bfd9a8208272)
 
-![WhatsApp Image 2025-09-25 at 05 32 03_337e90bd](https://github.com/user-attachments/assets/c79ad59c-5656-4709-a905-3a84f6b371cd)
+![DocScanner 16 Nov 2025 11-42 pm_1(6)](https://github.com/user-attachments/assets/3431054b-cddd-4259-bd27-8c0f92d82ba6)
 
-![WhatsApp Image 2025-09-25 at 05 32 03_32c5616a](https://github.com/user-attachments/assets/2e466a69-820a-46d8-abc7-557e691400d2)
+## Model Graph & Tabel:
+Open Circuit:
+![DocScanner 16 Nov 2025 11-42 pm_1(3) (1)](https://github.com/user-attachments/assets/fed3cc5b-e672-459b-92c7-1fbda9cb5628)
 
-![WhatsApp Image 2025-09-25 at 05 32 04_18a33fa4](https://github.com/user-attachments/assets/b0b3380d-33d2-4c90-ba75-0b7ce677f274)
-
-![WhatsApp Image 2025-09-25 at 05 32 04_1e986062](https://github.com/user-attachments/assets/7bc23805-070c-4c3b-a5a5-bd116d931b5c)
-
-![WhatsApp Image 2025-09-25 at 05 32 04_fdee70c3](https://github.com/user-attachments/assets/9d4d394a-790a-4b00-addc-6e28af84d08e)
-
-![WhatsApp Image 2025-09-25 at 05 32 05_f389281c](https://github.com/user-attachments/assets/f4ba06e6-891c-409c-9c93-aedd0e61e43f)
-
-<img width="958" height="861" alt="image" src="https://github.com/user-attachments/assets/6c889ce7-d3e6-4c0a-9759-07a889d0a156" />
-
-<img width="882" height="782" alt="image" src="https://github.com/user-attachments/assets/a7c0888b-56cb-4694-81d1-00d6432a30e6" />
+![DocScanner 16 Nov 2025 11-42 pm_1(5)](https://github.com/user-attachments/assets/c22f6a0c-5e51-4c6b-811b-5557c8690e09)
 
 
+Load Circuit:
+
+![DocScanner 16 Nov 2025 11-42 pm_1(1) (2)](https://github.com/user-attachments/assets/6939810b-6fb2-4898-a547-b938423dc79c)
+
+![DocScanner 16 Nov 2025 11-42 pm_1(4)](https://github.com/user-attachments/assets/3704ceeb-192d-4038-810e-7efb5fbd0fed)
 
 
+## Diagram and Tabulation:
+
+Open Circuit:
+<img width="920" height="831" alt="exp02" src="https://github.com/user-attachments/assets/144d679d-f4b8-4513-a01b-609aba6b6cd0" />
+
+Load Circuit:
+<img width="957" height="787" alt="2" src="https://github.com/user-attachments/assets/c5c7a638-2826-4ee2-967d-f2e91b508efe" />
 
  
 ### Result:
